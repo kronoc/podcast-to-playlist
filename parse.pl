@@ -21,7 +21,7 @@ my $self = {
 
 #get rss file
 my $ua = LWP::UserAgent->new;
-$ua->agent('Punctual Podcast Parser');
+$ua->agent('Primitive Podcast Parser');
 $ua->from('info@conor.net');
 $ua->timeout('60');
 
