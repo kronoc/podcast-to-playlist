@@ -1,11 +1,14 @@
-#!/usr/bin/perl -Tw
+#!/usr/bin/perl -w
 
 use strict;
 use warnings;
+use utf8;
 
 use LWP::UserAgent;
 use XML::RSS::Parser;
 
+binmode STDOUT, ':encoding(utf8)';
+binmode STDERR, ':encoding(utf8)';
 
 my $self = {
         url => 'http://some.example/rss',
@@ -33,8 +36,16 @@ if($r->is_error){
 print "error ". $r->status_line . "\n";
 }
 
+
+my $content = $r->content;
+my $encoding = 'utf8'; # assume this is the default
+if($content =~ /encoding="([^"]+)"/) {
+$encoding = $1;
+}
+$content = $r->decoded_content((charset => $encoding));
+
 my $p = XML::RSS::Parser->new;
-my $feed = $p->parse_string($r->content);
+my $feed = $p->parse_string($content);
 #print "$feed";
 
 my $feed_title = $feed->query('/channel/title');
