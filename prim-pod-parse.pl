@@ -7,16 +7,15 @@ use utf8;
 use LWP::UserAgent;
 use XML::RSS::Parser;
 use FileHandle;
+use Date::Parse
 
 binmode STDOUT, ':encoding(utf8)';
 binmode STDERR, ':encoding(utf8)';
 
 my $self = {
         url => 'rss/abc.rss',
-	type => 'mp3',
 	delim => "\n",
-	sort => 'date+',
-	limit => '1',
+	limit => '100',
         @ARGV
 };
 
@@ -24,14 +23,12 @@ my $p = XML::RSS::Parser->new;
 my $feed;
 
 if ($self->{url} =~ m/http/){
-	#get rss file
 	my $ua = LWP::UserAgent->new;
 	$ua->agent('Primitive Podcast Parser');
 	$ua->from('info@conor.net');
 	$ua->timeout('60');
 
 	my $r = $ua->get($self->{url});
-	#my $feed="";
 	if($r->is_error){
 	#open (LOG, ">>".$self->{logFile}) || die "oh no! can't open ".$self->{logFile}."\n";
 	#select(LOG); $| = 1;
@@ -56,23 +53,27 @@ if ($self->{url} =~ m/http/){
 
 }
 
-#print $feed->as_xml('utf-8');
 
-my $feed_title = $feed->query('/channel/title');
- print $feed_title->text_content;
- my $count = $feed->item_count;
- print " ($count)\n";
+#my $feed_title = $feed->query('/channel/title');
+ #print $feed_title->text_content;
+ #my $count = $feed->item_count;
+ #print " ($count)\n";
  my @podcasts;
 
  foreach my $i ( $feed->query('//item') ) { 
-     #my $node = $i->query('title');
-     #print ' '.$node->text_content;
-     #print "\n";
      my $podcast;
      $podcast->{url} = $i->query('enclosure')->attributes()->{'{}url'};
-     $podcast->{pubdate} = $i->query('pubDate')->text_content;
+     $podcast->{date} = str2time($i->query('pubDate')->text_content);
      push @podcasts, $podcast;
-     print $podcast->{pubdate}." ".$podcast->{url}.$self->{delim};
+}
+
+#improve sorting at some point
+my @playlist = sort { $b->{date} <=> $a->{date} } @podcasts;
+
+my $count=0;
+foreach my $pod (@playlist){
+	print $pod->{url}.$self->{delim} if ($count<$self->{limit});
+	$count++;
 }
 
 
