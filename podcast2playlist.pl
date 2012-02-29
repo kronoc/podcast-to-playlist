@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl
 
 use strict;
 use warnings;
@@ -51,25 +51,25 @@ if ($self->{url} =~ m/http/){
 
 	my $fh = FileHandle->new($self->{url});
 	$feed = $p->parse_file($fh);
-
 }
-
-
 #my $feed_title = $feed->query('/channel/title');
- #print $feed_title->text_content;
- #my $count = $feed->item_count;
- #print " ($count)\n";
+#my $count = $feed->item_count;
+
+if ( ! $feed ){
+  die "Cannot parse feed.";
+ }
  my @podcasts;
 
  foreach my $i ( $feed->query('//item') ) { 
      my $podcast;
-     my $enclosure = $i->query('enclosure');
-     if ( $enclosure ){
-     	$podcast->{url} = $enclosure->attributes()->{'{}url'};
+     if ( $i->query('enclosure') ){
+     	$podcast->{url} = $i->query('enclosure')->attributes()->{'{}url'};
      } elsif ( $i->query('link') ){
      	$podcast->{url} = $i->query('link')->text_content;
      } else {
-     	$podcast->{url} = "";#$i->query('guid')->text_content;
+     	next;
+	#$podcast->{url} = "";
+	##$i->query('guid')->text_content;
      }
      $podcast->{date} = str2time($i->query('pubDate')->text_content);
      push @podcasts, $podcast;
