@@ -63,7 +63,14 @@ if ($self->{url} =~ m/http/){
 
  foreach my $i ( $feed->query('//item') ) { 
      my $podcast;
-     $podcast->{url} = $i->query('enclosure')->attributes()->{'{}url'};
+     my $enclosure = $i->query('enclosure');
+     if ( $enclosure ){
+     	$podcast->{url} = $enclosure->attributes()->{'{}url'};
+     } elsif ( $i->query('link') ){
+     	$podcast->{url} = $i->query('link')->text_content;
+     } else {
+     	$podcast->{url} = "";#$i->query('guid')->text_content;
+     }
      $podcast->{date} = str2time($i->query('pubDate')->text_content);
      push @podcasts, $podcast;
 }
