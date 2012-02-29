@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="http://www.npr.org/rss/" xmlns:nprml="http://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>NPR: Shuffle Podcast</title>
+    <link>http://www.npr.org</link>
+    <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+    <copyright>Copyright 2007 NPR - For Personal Use Only</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <language>en-us</language>
+    <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+    <itunes:subtitle>NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!</itunes:subtitle>
+    <itunes:keywords>NPR,Shuffle,NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+    <itunes:author>NPR</itunes:author>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="http://media.npr.org/images/podcasts/primary/npr_shuffle_300.jpg"/>
+    <itunes:explicit>clean</itunes:explicit>
+    <image>
+      <url>http://media.npr.org/images/podcasts/thumbnail/npr_shuffle_75.jpg</url>
+      <title>NPR: Shuffle Podcast</title>
+      <link>http://www.npr.org</link>
+    </image>
+    <lastBuildDate>Tue, 28 Feb 2012 12:30:18 -0500</lastBuildDate>
+    <item>
+      <title>NPR: 02-28-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Tue, 28 Feb 2012 12:30:18 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147575664/npr_147575664.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>20:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147575664/npr_147575664.mp3" length="9855695" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-27-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Mon, 27 Feb 2012 12:00:41 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147504499/npr_147504499.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>26:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147504499/npr_147504499.mp3" length="12963766" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-26-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Sun, 26 Feb 2012 11:50:41 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147451289/npr_147451289.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>31:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147451289/npr_147451289.mp3" length="15290882" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-25-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Sat, 25 Feb 2012 11:47:13 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147410299/npr_147410299.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>44:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147410299/npr_147410299.mp3" length="21419208" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-24-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Fri, 24 Feb 2012 11:43:21 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147350053/npr_147350053.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>28:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147350053/npr_147350053.mp3" length="13771056" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-23-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Thu, 23 Feb 2012 11:39:06 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147290983/npr_147290983.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>20:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147290983/npr_147290983.mp3" length="9966245" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-22-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Wed, 22 Feb 2012 11:30:10 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147256826/npr_147256826.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>28:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147256826/npr_147256826.mp3" length="13891637" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-21-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Tue, 21 Feb 2012 10:52:26 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147191685/npr_147191685.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>29:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147191685/npr_147191685.mp3" length="14096565" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-20-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Mon, 20 Feb 2012 10:38:32 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147153236/npr_147153236.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>13:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147153236/npr_147153236.mp3" length="6350899" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+    <item>
+      <title>NPR: 02-19-2012 Shuffle</title>
+      <description><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></description>
+      <pubDate>Sun, 19 Feb 2012 10:18:52 -0500</pubDate>
+      <link>http://www.npr.org</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147121729/npr_147121729.mp3</guid>
+      <itunes:summary><![CDATA[NPR Shuffle mixes it up every day, offering an unpredictable sampler from 'Morning Edition', 'All Things Considered' and other award-winning NPR programs. Enjoy listening to this podcast just as you would enjoy listening to NPR - ready to be surprised by the next great story!]]></itunes:summary>
+      <itunes:keywords>NPR,National Public Radio,Shuffle,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>18:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/500006/147121729/npr_147121729.mp3" length="8843688" type="audio/mpeg"/>
+      <nprml:organization orgId="1" orgAbbr="NPR">
+        <nprml:name>National Public Radio</nprml:name>
+        <nprml:website>http://www.npr.org/</nprml:website>
+      </nprml:organization>
+    </item>
+  </channel>
+</rss>
+
+
+<!--  Burned on demand at 2012-02-29 04:20:14-->

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>World of Radio English</title>
+		<link>http://www.wrn.org/listeners/world-of-radio/</link>
+		<description>
+International broadcast media news.
+
+</description>
+
+		
+		<item>
+			<title>World of Radio</title>
+			<link>http://www.wrn.org/listeners/stations/downloadProgramme/75084/MP4_16/0/Programme.mp4?rss=1</link>
+			<description>International broadcast media news.</description>
+			<pubDate>Sat, 25 Feb 2012 09:00:00 +0000</pubDate>
+			
+			
+			<guid>http://www.wrn.org/listeners/stations/downloadProgramme/75084/MP4_16/0/Programme.mp4?rss=1</guid>
+		</item>
+		
+		<item>
+			<title>World of Radio</title>
+			<link>http://www.wrn.org/listeners/stations/downloadProgramme/74515/MP4_16/0/Programme.mp4?rss=1</link>
+			<description>International broadcast media news.</description>
+			<pubDate>Sat, 18 Feb 2012 09:00:00 +0000</pubDate>
+			
+			
+			<guid>http://www.wrn.org/listeners/stations/downloadProgramme/74515/MP4_16/0/Programme.mp4?rss=1</guid>
+		</item>
+		
+		<item>
+			<title>World of Radio</title>
+			<link>http://www.wrn.org/listeners/stations/downloadProgramme/73946/MP4_16/0/Programme.mp4?rss=1</link>
+			<description>International broadcast media news.</description>
+			<pubDate>Sat, 11 Feb 2012 09:00:00 +0000</pubDate>
+			
+			
+			<guid>http://www.wrn.org/listeners/stations/downloadProgramme/73946/MP4_16/0/Programme.mp4?rss=1</guid>
+		</item>
+		
+		<item>
+			<title>World of Radio</title>
+			<link>http://www.wrn.org/listeners/stations/downloadProgramme/73370/MP4_16/0/Programme.mp4?rss=1</link>
+			<description>International broadcast media news.</description>
+			<pubDate>Sat, 04 Feb 2012 09:00:00 +0000</pubDate>
+			
+			
+			<guid>http://www.wrn.org/listeners/stations/downloadProgramme/73370/MP4_16/0/Programme.mp4?rss=1</guid>
+		</item>
+		
+
+	</channel>
+</rss>

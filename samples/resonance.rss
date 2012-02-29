@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Resonance FM Podcasts &#187; OST</title>
+	<atom:link href="http://podcasts.resonancefm.com/archives/category/shows/ost/feed" rel="self" type="application/rss+xml" />
+	<link>http://podcasts.resonancefm.com</link>
+	<description>The Resonance Audio Archive</description>
+	<lastBuildDate>Mon, 27 Feb 2012 20:49:36 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<!-- podcast_generator="podPress/8.8.10.3 beta 1" -->
+	<copyright>2006-2007 </copyright>
+	<managingEditor>webmaster@resonancefm.com (Resonance FM)</managingEditor>
+	<webMaster>webmaster@resonancefm.com (Resonance FM)</webMaster>
+	<ttl>1440</ttl>
+	<image>
+		<url>http://audio.resonancefm.com/artwork/resonance_fm_logo_144px.png</url>
+		<title>Resonance FM Podcasts &#187; OST</title>
+		<link>http://podcasts.resonancefm.com</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	<itunes:subtitle></itunes:subtitle>
+	<itunes:summary>Podcasts from London&#039;s community arts radio station Resonance FM.</itunes:summary>
+	<itunes:keywords></itunes:keywords>
+	<itunes:category text="Arts" />
+	<itunes:category text="Arts">
+		<itunes:category text="Performing Arts" />
+	</itunes:category>
+	<itunes:category text="Arts">
+		<itunes:category text="Literature" />
+	</itunes:category>
+	<itunes:author>Resonance FM</itunes:author>
+	<itunes:owner>
+		<itunes:name>Resonance FM</itunes:name>
+		<itunes:email>webmaster@resonancefm.com</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://audio.resonancefm.com/artwork/resonance_fm_logo_600px.png" />
+		<item>
+		<title>OST 21.01.2012 &#8211; Fred Judd, Ian Helliwell &amp; Public Information</title>
+		<link>http://podcasts.resonancefm.com/archives/8307</link>
+		<comments>http://podcasts.resonancefm.com/archives/8307#comments</comments>
+		<pubDate>Wed, 01 Feb 2012 22:21:53 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=8307</guid>
+		<description><![CDATA[Soundtracks, library and television music with Jonny Trunk. Today Ian Helliwell is coming onto the OST Show. Ian lives in Brighton, is somewhat of an archivist and dare we say it, a polymath. He has spent the last few years, investigating (amongst many other things) the life and work of a certain F.C. Judd. Frederick [...]]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, library and television music with Jonny Trunk. Today Ian Helliwell is coming onto the OST Show. Ian lives in Brighton, is somewhat of an archivist and dare we say it, a polymath. He has spent the last few years, investigating (amongst many other things) the life and work of a certain F.C. Judd. Frederick Judd was responsible for some very early electronic music in the UK, wrote extensively on the subject and much of his musical work was issued on the Studio G library label. Ian has also made a full length film about this great, inventive man, &#8216;Practical Electronics&#8217; and a new compilation of his Judd&#8217;s work &#8216;Electronics Without Tears&#8217; is about to be released on the rather marvellous Public Information label. And pretty fabulous they both are too. The stage is set for a journey into the deeply strange and utterly wondrous soundworld. And don&#8217;t be fooled by the skip in the first few seconds, this is actually a lovely high-quality 320kbps mp3 file, which as you will know is CD quality. We really are too good to you&#8230; </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/8307/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/8307/0/TheOstShow21stJanuary2012-320kbps.mp3" length="287938970" type="audio/mpeg" />
+		<itunes:duration>1:59:59</itunes:duration>
+		<itunes:subtitle>Soundtracks, library and television music with Jonny Trunk. Today Ian Helliwell is coming onto the OST Show. Ian lives in Brighton, is somewhat of an archivist and dare we say it, a polymath. He has spent the last few years, investigating (amongst man...</itunes:subtitle>
+		<itunes:summary>Soundtracks, library and television music with Jonny Trunk. Today Ian Helliwell is coming onto the OST Show. Ian lives in Brighton, is somewhat of an archivist and dare we say it, a polymath. He has spent the last few years, investigating (amongst many other things) the life and work of a certain F.C. Judd. Frederick Judd was responsible for some very early electronic music in the UK, wrote extensively on the subject and much of his musical work was issued on the Studio G library label. Ian has also made a full length film about this great, inventive man, 'Practical Electronics' and a new compilation of his Judd's work 'Electronics Without Tears' is about to be released on the rather marvellous Public Information label. And pretty fabulous they both are too. The stage is set for a journey into the deeply strange and utterly wondrous soundworld. And don't be fooled by the skip in the first few seconds, this is actually a lovely high-quality 320kbps mp3 file, which as you will know is CD quality. We really are too good to you...</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 19.11.2011- Alan McKinnon</title>
+		<link>http://podcasts.resonancefm.com/archives/8162</link>
+		<comments>http://podcasts.resonancefm.com/archives/8162#comments</comments>
+		<pubDate>Wed, 28 Dec 2011 13:00:06 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=8162</guid>
+		<description><![CDATA[Soundtracks, Library Music and all that jazz with Jonny Trunk. Today&#8217;s special guest is Alan McKinnon, ace record collector. He&#8217;s come all the way from Lewisham with a sack full of decidedly groovy and obscure jazz records, some of which even Jonny isn&#8217;t familiar with (not that he&#8217;ll admit it). There&#8217;s also a healthy dose [...]]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, Library Music and all that jazz with Jonny Trunk. Today&#8217;s special guest is Alan McKinnon, ace record collector. He&#8217;s come all the way from Lewisham with a sack full of decidedly groovy and obscure jazz records, some of which even Jonny isn&#8217;t familiar with (not that he&#8217;ll admit it). There&#8217;s also a healthy dose of &#8216;pancake angst&#8217; and the usual extremely silly competition, this week mixing films and clothes. Get Cardi, anyone?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/8162/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/8162/0/Ost-November19th2011.mp3" length="286470963" type="audio/mpeg" />
+		<itunes:duration>1:59:18</itunes:duration>
+		<itunes:subtitle>Soundtracks, Library Music and all that jazz with Jonny Trunk. Today's special guest is Alan McKinnon, ace record collector. He's come all the way from Lewisham with a sack full of decidedly groovy and obscure jazz records, some of which even Jonny is...</itunes:subtitle>
+		<itunes:summary>Soundtracks, Library Music and all that jazz with Jonny Trunk. Today's special guest is Alan McKinnon, ace record collector. He's come all the way from Lewisham with a sack full of decidedly groovy and obscure jazz records, some of which even Jonny isn't familiar with (not that he'll admit it). There's also a healthy dose of 'pancake angst' and the usual extremely silly competition, this week mixing films and clothes. Get Cardi, anyone?</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 20.08.2011 &#8211; Morricone POP!</title>
+		<link>http://podcasts.resonancefm.com/archives/8130</link>
+		<comments>http://podcasts.resonancefm.com/archives/8130#comments</comments>
+		<pubDate>Wed, 21 Dec 2011 13:00:21 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=8130</guid>
+		<description><![CDATA[Soundtracks, library and television music hosted by Jonny Trunk. Today &#8211; Morricone Pop! We examine exceptionally rare Morricone collaborations. All non soundtrack works, these superb records date from 1958 and run through to about 1965, crossing from classic Italain pop to jazz and more experimental recordings.We&#8217;ll also be playing the rarely heard Pastures OF Plenty, [...]]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, library and television music hosted by Jonny Trunk. Today &#8211; Morricone Pop! We examine exceptionally rare Morricone collaborations. All non soundtrack works, these superb records date from 1958 and run through to about 1965, crossing from classic Italain pop to jazz and more experimental recordings.We&#8217;ll also be playing the rarely heard Pastures OF Plenty, the 1962 pop vocal by Pete Tevis that was to become A Fistful Of Dollars three years later. Result!</p>
+<p>Incidentally, sorry this week&#8217;s podcast isn&#8217;t a bit more Christmassy. Robin The Fog popped down to the OST archive to try and find something a bit more seasonal, but then left his USB stick at the Resonance Christmas party. So you&#8217;ll just have to slap this one on while sitting around the festive table instead. A pretty decent compromise, don&#8217;t you think? </p>
+<p>Happy Christmas, OST fans! </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/8130/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/8130/0/Ost20.08.11_mixdown.mp3" length="172805325" type="audio/mpeg" />
+		<itunes:duration>2:00:02</itunes:duration>
+		<itunes:subtitle>Soundtracks, library and television music hosted by Jonny Trunk. Today - Morricone Pop! We examine exceptionally rare Morricone collaborations. All non soundtrack works, these superb records date from 1958 and run through to about 1965, crossing from ...</itunes:subtitle>
+		<itunes:summary>Soundtracks, library and television music hosted by Jonny Trunk. Today - Morricone Pop! We examine exceptionally rare Morricone collaborations. All non soundtrack works, these superb records date from 1958 and run through to about 1965, crossing from classic Italain pop to jazz and more experimental recordings.We'll also be playing the rarely heard Pastures OF Plenty, the 1962 pop vocal by Pete Tevis that was to become A Fistful Of Dollars three years later. Result!
+
+Incidentally, sorry this week's podcast isn't a bit more Christmassy. Robin The Fog popped down to the OST archive to try and find something a bit more seasonal, but then left his USB stick at the Resonance Christmas party. So you'll just have to slap this one on while sitting around the festive table instead. A pretty decent compromise, don't you think? 
+
+Happy Christmas, OST fans!</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 12.11.2011 &#8211; Adrian Corker</title>
+		<link>http://podcasts.resonancefm.com/archives/8113</link>
+		<comments>http://podcasts.resonancefm.com/archives/8113#comments</comments>
+		<pubDate>Wed, 14 Dec 2011 13:00:56 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=8113</guid>
+		<description><![CDATA[Soundtracks, library and television music hosted by Jonny Trunk. Special guest today is Adrian Corker, musician and film music composer. He has collaborated with, amongst others, Peter Greenaway and Michael Nyman, and has written and composed for over 15 films. His latest work is the soundtrack to acclaimed documentary Way OF The Morris, a soundtrack [...]]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, library and television music hosted by Jonny Trunk.  Special guest today is Adrian Corker, musician and film music composer. He has collaborated with, amongst others, Peter Greenaway and Michael Nyman, and has written and composed for over 15 films. His latest work is the soundtrack to acclaimed documentary Way OF The Morris, a soundtrack that is released in November.  And in the usual combination of sublime and ridiculous, there&#8217;s cheap laughs to be had in another classic competition &#8211; Films and chocolate.<br />
+We do have fun on this show, don&#8217;t we? Don&#8217;t we, though? </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/8113/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/8113/0/Ost12.11.2011-AdrianCorker.mp3" length="172490752" type="audio/mpeg" />
+		<itunes:duration>1:59:45</itunes:duration>
+		<itunes:subtitle>Soundtracks, library and television music hosted by Jonny Trunk.  Special guest today is Adrian Corker, musician and film music composer. He has collaborated with, amongst others, Peter Greenaway and Michael Nyman, and has written and composed for ove...</itunes:subtitle>
+		<itunes:summary>Soundtracks, library and television music hosted by Jonny Trunk.  Special guest today is Adrian Corker, musician and film music composer. He has collaborated with, amongst others, Peter Greenaway and Michael Nyman, and has written and composed for over 15 films. His latest work is the soundtrack to acclaimed documentary Way OF The Morris, a soundtrack that is released in November.  And in the usual combination of sublime and ridiculous, there's cheap laughs to be had in another classic competition - Films and chocolate.  
+We do have fun on this show, don't we? Don't we, though?</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 18.06.2011 &#8211; Crime Jazz Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7932</link>
+		<comments>http://podcasts.resonancefm.com/archives/7932#comments</comments>
+		<pubDate>Wed, 07 Dec 2011 13:00:55 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7932</guid>
+		<description><![CDATA[Evenin&#8217; all. I was proceeding down Borough High Street in a leisurely manner on the afternoon of June 18th, when I spotted the Defendant Jonny Trunk of 999 Letsby Avenue, willfully engaging in a special Crime Jazz edition of the OST Show, featuring classic cues by Bernstein, Ellington, Waxman and a plenitude of others. I [...]]]></description>
+			<content:encoded><![CDATA[<p>Evenin&#8217; all. I was proceeding down Borough High Street in a leisurely manner on the afternoon of June 18th, when I spotted the Defendant Jonny Trunk of 999 Letsby Avenue, willfully engaging in a special Crime Jazz edition of the OST Show, featuring classic cues by Bernstein, Ellington, Waxman and a plenitude of others. I had no option other than to feel his collar. </p>
+<p>Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7932/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7932/0/Ost-June18th2011crimeJazz.mp3" length="866123776" type="audio/mpeg" />
+		<itunes:duration>1:30:12</itunes:duration>
+		<itunes:subtitle>Evenin' all. I was proceeding down Borough High Street in a leisurely manner on the afternoon of June 18th, when I spotted the Defendant Jonny Trunk of 999 Letsby Avenue, willfully engaging in a special Crime Jazz edition of the OST Show, featuring cl...</itunes:subtitle>
+		<itunes:summary>Evenin' all. I was proceeding down Borough High Street in a leisurely manner on the afternoon of June 18th, when I spotted the Defendant Jonny Trunk of 999 Letsby Avenue, willfully engaging in a special Crime Jazz edition of the OST Show, featuring classic cues by Bernstein, Ellington, Waxman and a plenitude of others. I had no option other than to feel his collar. 
+
+Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing.</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 10.02.2010 &#8211; Transmediale Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7930</link>
+		<comments>http://podcasts.resonancefm.com/archives/7930#comments</comments>
+		<pubDate>Wed, 30 Nov 2011 13:00:59 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7930</guid>
+		<description><![CDATA[This archive edition of the the OST Show from 2010 is broadcast live from the Transmediale Festival in Berlin. Expect some fine compositions from Germany&#8217;s finest film composers. As per usual, Herr Trunk poses another pithy quiz question&#8230;.the OST quiz conundrum &#8211; songs that are appropriate, or inappropriate, to listen to in a lavatory. You [...]]]></description>
+			<content:encoded><![CDATA[<p>This archive edition of the the OST Show from 2010 is broadcast live from the Transmediale Festival in Berlin. Expect some fine compositions from Germany&#8217;s finest film composers. As per usual, Herr Trunk poses another pithy quiz question&#8230;.the OST quiz conundrum &#8211; songs that are appropriate, or inappropriate, to listen to in a lavatory. You can take the seedy Englishman out of England, but&#8230;</p>
+<p>This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week the OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing. http://www.transmediale.de</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7930/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7930/0/Ost-February10th2010.mp3" length="1723858944" type="audio/mpeg" />
+		<itunes:duration>1:59:44</itunes:duration>
+		<itunes:subtitle>This archive edition of the the OST Show from 2010 is broadcast live from the Transmediale Festival in Berlin. Expect some fine compositions from Germany's finest film composers. As per usual, Herr Trunk poses another pithy quiz question....the OST qu...</itunes:subtitle>
+		<itunes:summary>This archive edition of the the OST Show from 2010 is broadcast live from the Transmediale Festival in Berlin. Expect some fine compositions from Germany's finest film composers. As per usual, Herr Trunk poses another pithy quiz question....the OST quiz conundrum - songs that are appropriate, or inappropriate, to listen to in a lavatory. You can take the seedy Englishman out of England, but...
+
+This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week the OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing. http://www.transmediale.de</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 19.04.2011 &#8211; Julie Andrews / The Sound Of Music Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7927</link>
+		<comments>http://podcasts.resonancefm.com/archives/7927#comments</comments>
+		<pubDate>Wed, 23 Nov 2011 13:00:36 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7927</guid>
+		<description><![CDATA[OST is a weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. In this archive edition from 2008, Jonny is (entirely predictably) excited by the release of Julie Andrew&#8217;s memoir of her pre-Sound Of Music years, and so has prepared an entire programme of [...]]]></description>
+			<content:encoded><![CDATA[<p>OST is a weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. In this archive edition from 2008, Jonny is (entirely predictably) excited by the release of Julie Andrew&#8217;s memoir of her pre-Sound Of Music years, and so has prepared an entire programme of Sound Of Music Music, either from the film itself or covered by a multitude of artists. Even that Sun-Ra fellow. And not quite as cute and fluffy as you might think. </p>
+<p>Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7927/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7927/0/Ost-April19th2008.mp3" length="1722810368" type="audio/mpeg" />
+		<itunes:duration>1:59:39</itunes:duration>
+		<itunes:subtitle>OST is a weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. In this archive edition from 2008, Jonny is (entirely predictably) excited by the release of Julie Andrew's memoir of h...</itunes:subtitle>
+		<itunes:summary>OST is a weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. In this archive edition from 2008, Jonny is (entirely predictably) excited by the release of Julie Andrew's memoir of her pre-Sound Of Music years, and so has prepared an entire programme of Sound Of Music Music, either from the film itself or covered by a multitude of artists. Even that Sun-Ra fellow. And not quite as cute and fluffy as you might think. 
+
+Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing.</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 02.11.2011 &#8211; X-Ray Eyes Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7925</link>
+		<comments>http://podcasts.resonancefm.com/archives/7925#comments</comments>
+		<pubDate>Wed, 16 Nov 2011 13:00:39 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7925</guid>
+		<description><![CDATA[This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Today Jonny is proud to be able to play the first [...]]]></description>
+			<content:encoded><![CDATA[<p>This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Today Jonny is proud to be able to play the first ever full recording of Les Baxter&#8217;s score to The Man With X Ray Eyes. A mixture of exotics, oddness and bizarre instrumentation, this superb sci fi horror score for Corman&#8217;s 1963 classic (also known simply as &#8220;X&#8221;) is well worth the 48 year wait. He also has an unreleased Schifrin score but you&#8217;ll have to tune in to hear all about it!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7925/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7925/0/Ost-July2nd2011x-rayEyes.mp3" length="866123776" type="audio/mpeg" />
+		<itunes:duration>1:30:11</itunes:duration>
+		<itunes:subtitle>This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music g...</itunes:subtitle>
+		<itunes:summary>This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Today Jonny is proud to be able to play the first ever full recording of Les Baxter's score to The Man With X Ray Eyes. A mixture of exotics, oddness and bizarre instrumentation, this superb sci fi horror score for Corman's 1963 classic (also known simply as "X") is well worth the 48 year wait. He also has an unreleased Schifrin score but you'll have to tune in to hear all about it!</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 25.06.11 &#8211; Dominic Glynn</title>
+		<link>http://podcasts.resonancefm.com/archives/7923</link>
+		<comments>http://podcasts.resonancefm.com/archives/7923#comments</comments>
+		<pubDate>Wed, 09 Nov 2011 13:00:09 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7923</guid>
+		<description><![CDATA[In this slightly shortened OST Show today we have special guest Dominic Glynn, not just any old TV and film music composer but a contemporary talent who has indeed created stunning music for Dr Who. Be prepared to spend much of Saturday&#8217;s show quivering behind the sofa. OST is a weekly programme is dedicated to [...]]]></description>
+			<content:encoded><![CDATA[<p>In this slightly shortened OST Show today we have special guest Dominic Glynn, not just any old TV and film music composer but a contemporary talent who has indeed created stunning music for Dr Who. Be prepared to spend much of Saturday&#8217;s show quivering behind the sofa. </p>
+<p>OST is a weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7923/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7923/0/Ost-June25th2011dominicGlynn.mp3" length="1308622848" type="audio/mpeg" />
+		<itunes:duration>1:30:45</itunes:duration>
+		<itunes:subtitle>In this slightly shortened OST Show today we have special guest Dominic Glynn, not just any old TV and film music composer but a contemporary talent who has indeed created stunning music for Dr Who. Be prepared to spend much of Saturday's show quiveri...</itunes:subtitle>
+		<itunes:summary>In this slightly shortened OST Show today we have special guest Dominic Glynn, not just any old TV and film music composer but a contemporary talent who has indeed created stunning music for Dr Who. Be prepared to spend much of Saturday's show quivering behind the sofa. 
+
+OST is a weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Each week The OST Show welcomes a guest (a collector, composer, director, artist) or specialises in a specific film music genre or composer. Expect lively chat, competitions and anything from avant garde Morricone to Rock Hudson singing.</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 09.11.2011 &#8211; KPM Jazz Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7921</link>
+		<comments>http://podcasts.resonancefm.com/archives/7921#comments</comments>
+		<pubDate>Tue, 08 Nov 2011 13:59:21 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7921</guid>
+		<description><![CDATA[Film, library and television music with Jonny Trunk. Today the OST has an unexpected airing of all three exceptionally rare Clark-Boland Big Band LPs made for KPM. The internationally famous poll winning band included the cream of European and American musicians, but quite why and how they made three LPs for the London based library [...]]]></description>
+			<content:encoded><![CDATA[<p>Film, library and television music with Jonny Trunk. Today the OST has an unexpected airing of all three exceptionally rare Clark-Boland Big Band LPs made for KPM. The internationally famous poll winning band included the cream of European and American musicians, but quite why and how they made three LPs for the London based library label is anyones guess. So, Jazz Convention I, II and III, possibly the rarest set of all British library LPs get a full hearing today. Hurrah! </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7921/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7921/0/Ost-July9th2011kpmJazz.mp3" length="1293942784" type="audio/mpeg" />
+		<itunes:duration>1:29:51</itunes:duration>
+		<itunes:subtitle>Film, library and television music with Jonny Trunk. Today the OST has an unexpected airing of all three exceptionally rare Clark-Boland Big Band LPs made for KPM. The internationally famous poll winning band included the cream of European and America...</itunes:subtitle>
+		<itunes:summary>Film, library and television music with Jonny Trunk. Today the OST has an unexpected airing of all three exceptionally rare Clark-Boland Big Band LPs made for KPM. The internationally famous poll winning band included the cream of European and American musicians, but quite why and how they made three LPs for the London based library label is anyones guess. So, Jazz Convention I, II and III, possibly the rarest set of all British library LPs get a full hearing today. Hurrah!</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 01.10.2011 &#8211; George Harrison Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7654</link>
+		<comments>http://podcasts.resonancefm.com/archives/7654#comments</comments>
+		<pubDate>Sun, 09 Oct 2011 21:53:09 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7654</guid>
+		<description><![CDATA[Soundtracks, TV and library music (plus assorted tangents) with Jonny Trunk. To celebrate the launch of &#8220;Living In The Material World&#8221;, a brand new book featuring the personal archives of George Harrison, the OST Show is dedicating itself to the man, his film music and the soundtracks from the output of his Handmade Films Company, [...]]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, TV and library music (plus assorted tangents) with Jonny Trunk. To celebrate the launch of &#8220;Living In The Material World&#8221;, a brand new book featuring the personal archives of George Harrison, the OST Show is dedicating itself to the man, his film music and the soundtracks from the output of his Handmade Films Company, originally broadcast 1st October 2011. There was a competition too with a pretty cool prize, but you&#8217;ve obviously missed that because this is a podcast, and you can&#8217;t go back, no matter what those fellows in Switzerland might have you believe. Never mind, at least we still have the music, right? And what music it is! Hit that download button forthwith! </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7654/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7654/0/Ost1stOct2011georgeHarrison.mp3" length="172176179" type="audio/mpeg" />
+		<itunes:duration>1:59:32</itunes:duration>
+		<itunes:subtitle>Soundtracks, TV and library music (plus assorted tangents) with Jonny Trunk. To celebrate the launch of "Living In The Material World", a brand new book featuring the personal archives of George Harrison, the OST Show is dedicating itself to the man, ...</itunes:subtitle>
+		<itunes:summary>Soundtracks, TV and library music (plus assorted tangents) with Jonny Trunk. To celebrate the launch of "Living In The Material World", a brand new book featuring the personal archives of George Harrison, the OST Show is dedicating itself to the man, his film music and the soundtracks from the output of his Handmade Films Company, originally broadcast 1st October 2011. There was a competition too with a pretty cool prize, but you've obviously missed that because this is a podcast, and you can't go back, no matter what those fellows in Switzerland might have you believe. Never mind, at least we still have the music, right? And what music it is! Hit that download button forthwith!</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 11/06/2011 &#8211; Michel Legrand Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7565</link>
+		<comments>http://podcasts.resonancefm.com/archives/7565#comments</comments>
+		<pubDate>Wed, 05 Oct 2011 12:00:19 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7565</guid>
+		<description><![CDATA[Soundtracks, library and television music curated by Jonny Trunk. In this archive edition from June 2011, Jonny feels moved to play the music of the veteran composer, arranger and general cool cat Michel Legrand. The reason for this venture, not that it particularly needs one, is that Jonny had been to see the great man [...]]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, library and television music curated by Jonny Trunk. In this archive edition from June 2011, Jonny feels moved to play the music of the veteran composer, arranger and general cool cat Michel Legrand. The reason for this venture, not that it particularly needs one, is that Jonny had been to see the great man give a thoroughly satisfactory performance at Ronnie Scott&#8217;s a few days previously, and felt compelled to prepare a tribute episode away from the distractions of courting couples and chickens in a basket&#8230;</p>
+<p>Slightly shorter than your average OST due to the events at the Raven Row gallery, but no less perfectly formed! </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7565/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7565/0/ostlegrand.mp3" length="868220928" type="audio/mpeg" />
+		<itunes:duration>1:30:25</itunes:duration>
+		<itunes:subtitle>Soundtracks, library and television music curated by Jonny Trunk. In this archive edition from June 2011, Jonny feels moved to play the music of the veteran composer, arranger and general cool cat Michel Legrand. The reason for this venture, not that ...</itunes:subtitle>
+		<itunes:summary>Soundtracks, library and television music curated by Jonny Trunk. In this archive edition from June 2011, Jonny feels moved to play the music of the veteran composer, arranger and general cool cat Michel Legrand. The reason for this venture, not that it particularly needs one, is that Jonny had been to see the great man give a thoroughly satisfactory performance at Ronnie Scott's a few days previously, and felt compelled to prepare a tribute episode away from the distractions of courting couples and chickens in a basket...
+
+Slightly shorter than your average OST due to the events at the Raven Row gallery, but no less perfectly formed!</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 17.09.2011 &#8211; John Flannery</title>
+		<link>http://podcasts.resonancefm.com/archives/7514</link>
+		<comments>http://podcasts.resonancefm.com/archives/7514#comments</comments>
+		<pubDate>Thu, 22 Sep 2011 11:55:38 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7514</guid>
+		<description><![CDATA[This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Today on the OST Show he&#8217;s joined by John Flannery, member of the test card circle. We&#8217;ve been waiting an age to get one of the test card enthusiasts on the show, and were [...]]]></description>
+			<content:encoded><![CDATA[<p>This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Today on the OST Show he&#8217;s joined by John Flannery, member of the test card circle. We&#8217;ve been waiting an age to get one of the test card enthusiasts on the show, and were thrilled to have John join us. Expect two hours of classic TV interludes and more besides. </p>
+<p>We&#8217;d also like to apologise for the extreme slackness of uploading fresh OST podcasts in the last month or two. This is because it&#8217;s normally left to Robin The Fog to sort it out, and frankly of late he hasn&#8217;t been cutting the mustard. However, with a quiet word and a punch in the chops, normal service looks set to be resumed. Look out for veritable cavalcade of new and old OST podcasts coming very soon! We faithfully promise&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7514/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7514/0/OstSeptember17th2011.mp3" length="174692762" type="audio/mpeg" />
+		<itunes:duration>2:01:20</itunes:duration>
+		<itunes:subtitle>This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Today on the OST Show he's joined by John Flannery, member of the test card circle. We've been waiting an age to get one of...</itunes:subtitle>
+		<itunes:summary>This weekly programme is dedicated to film music, TV music, library music and related recordings, and is hosted by Jonny Trunk. Today on the OST Show he's joined by John Flannery, member of the test card circle. We've been waiting an age to get one of the test card enthusiasts on the show, and were thrilled to have John join us. Expect two hours of classic TV interludes and more besides. 
+
+We'd also like to apologise for the extreme slackness of uploading fresh OST podcasts in the last month or two. This is because it's normally left to Robin The Fog to sort it out, and frankly of late he hasn't been cutting the mustard. However, with a quiet word and a punch in the chops, normal service looks set to be resumed. Look out for veritable cavalcade of new and old OST podcasts coming very soon! We faithfully promise...</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 09.07.2005 &#8211; Delia Derbyshire Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7013</link>
+		<comments>http://podcasts.resonancefm.com/archives/7013#comments</comments>
+		<pubDate>Fri, 03 Jun 2011 23:01:32 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Shows]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7013</guid>
+		<description><![CDATA[Film, library and television music with Jonny Trunk. A classic edition (and slightly shorter due to a special broadcast from the Serpentine) from way back in 2005 focusing on the work of legendary Radiophonic Workshop member, Delia Derbyshire. Choc-full of obscure and rare material from one of the pioneers of electronic music. Does anything more [...]]]></description>
+			<content:encoded><![CDATA[<p>Film, library and television music with Jonny Trunk. A classic edition (and slightly shorter due to a special broadcast from the Serpentine) from way back in 2005 focusing on the work of legendary Radiophonic Workshop member, Delia Derbyshire. Choc-full of obscure and rare material from one of the pioneers of electronic music. Does anything more need to be said, really? Well, does it? Get downloading! </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7013/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7013/0/Ost090705deliaDerbyshireSpecial.mp3" length="1" type="audio/mpeg" />
+		<itunes:duration>0:10:06</itunes:duration>
+		<itunes:subtitle>Film, library and television music with Jonny Trunk. A classic edition (and slightly shorter due to a special broadcast from the Serpentine) from way back in 2005 focusing on the work of legendary Radiophonic Workshop member, Delia Derbyshire. Choc-fu...</itunes:subtitle>
+		<itunes:summary>Film, library and television music with Jonny Trunk. A classic edition (and slightly shorter due to a special broadcast from the Serpentine) from way back in 2005 focusing on the work of legendary Radiophonic Workshop member, Delia Derbyshire. Choc-full of obscure and rare material from one of the pioneers of electronic music. Does anything more need to be said, really? Well, does it? Get downloading!</itunes:summary>
+		<itunes:keywords>OST, Shows</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 08.08.2009 &#8211; Big George Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7004</link>
+		<comments>http://podcasts.resonancefm.com/archives/7004#comments</comments>
+		<pubDate>Fri, 03 Jun 2011 21:50:35 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Shows]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7004</guid>
+		<description><![CDATA[Film, library and television music with Jonny Trunk. This week&#8217;s edition from August 8th 2009 was re-braodcast on 21st May 2011 in tribute to that week&#8217;s guest, the larger-than-life musician, broadcaster and all-round legend Big George who very sadly and very suddenly passed away earlier that month. A fine tribute to possibly the only guest [...]]]></description>
+			<content:encoded><![CDATA[<p>Film, library and television music with Jonny Trunk. This week&#8217;s edition from August 8th 2009 was re-braodcast on 21st May 2011 in tribute to that week&#8217;s guest, the larger-than-life musician, broadcaster and all-round legend Big George who very sadly and very suddenly passed away earlier that month. A fine tribute to possibly the only guest in the history of the show to talk Jonny under the table; the show kicks off with his theme tune to &#8216;Have I Got News For You&#8217; as you&#8217;ve never heard it before&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7004/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7004/0/Ost-August8th20091.mp3" length="164200" type="audio/mpeg" />
+		<itunes:duration>1:59:36</itunes:duration>
+		<itunes:subtitle>Film, library and television music with Jonny Trunk. This week's edition from August 8th 2009 was re-braodcast on 21st May 2011 in tribute to that week's guest, the larger-than-life musician, broadcaster and all-round legend Big George who very sadly ...</itunes:subtitle>
+		<itunes:summary>Film, library and television music with Jonny Trunk. This week's edition from August 8th 2009 was re-braodcast on 21st May 2011 in tribute to that week's guest, the larger-than-life musician, broadcaster and all-round legend Big George who very sadly and very suddenly passed away earlier that month. A fine tribute to possibly the only guest in the history of the show to talk Jonny under the table; the show kicks off with his theme tune to 'Have I Got News For You' as you've never heard it before...</itunes:summary>
+		<itunes:keywords>OST, Shows</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 12.08.2008 &#8211; Sesame Street Special</title>
+		<link>http://podcasts.resonancefm.com/archives/7000</link>
+		<comments>http://podcasts.resonancefm.com/archives/7000#comments</comments>
+		<pubDate>Fri, 03 Jun 2011 21:11:45 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Shows]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=7000</guid>
+		<description><![CDATA[Film, library and television music with Jonny Trunk. In this archive edition from 2008, Robin The Fog, OST&#8217;s long-suffering engineer and comedy foil takes the controls to bring you the musical fruits of his Sesame Street obsession, aided and abetted by ResFM stalwart Joceline Colvert. Together they bring you a Ladybug&#8217;s Picnic, P-Funk jams concerning [...]]]></description>
+			<content:encoded><![CDATA[<p>Film, library and television music with Jonny Trunk. In this archive edition from 2008, <a href="http://robinthefog.com">Robin The Fog</a>, OST&#8217;s long-suffering engineer and comedy foil takes the controls to bring you the musical fruits of his Sesame Street obsession, aided and abetted by ResFM stalwart Joceline Colvert. Together they bring you a Ladybug&#8217;s Picnic, P-Funk jams concerning the days of the week and a pigeon that plays checkers, pus some surprisingly avant-garde obscurities from Philip Glass. What more could you ask for?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/7000/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/7000/0/Ost-July12th2008remaster.mp3" length="1720713216" type="audio/mpeg" />
+		<itunes:duration>1:59:34</itunes:duration>
+		<itunes:subtitle>Film, library and television music with Jonny Trunk. In this archive edition from 2008, &#60;a href="http://robinthefog.com"&#62;Robin The Fog&#60;/a&#62;, OST's long-suffering engineer and comedy foil takes the controls to bring you the musical fruits of his Sesame ...</itunes:subtitle>
+		<itunes:summary>Film, library and television music with Jonny Trunk. In this archive edition from 2008, &#60;a href="http://robinthefog.com"&#62;Robin The Fog&#60;/a&#62;, OST's long-suffering engineer and comedy foil takes the controls to bring you the musical fruits of his Sesame Street obsession, aided and abetted by ResFM stalwart Joceline Colvert. Together they bring you a Ladybug's Picnic, P-Funk jams concerning the days of the week and a pigeon that plays checkers, pus some surprisingly avant-garde obscurities from Philip Glass. What more could you ask for?</itunes:summary>
+		<itunes:keywords>OST, Shows</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 07.05.2011 &#8211; Ghost Box Special</title>
+		<link>http://podcasts.resonancefm.com/archives/6829</link>
+		<comments>http://podcasts.resonancefm.com/archives/6829#comments</comments>
+		<pubDate>Sat, 14 May 2011 13:52:48 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=6829</guid>
+		<description><![CDATA[Soundtracks, library and television music curated by Jonny Trunk. This week he&#8217;s joined by Julian House and Jim Jupp, otherwise known as The Focus Group and Belbury Poly respectively. There&#8217;s exclusive airings of forthcoming Ghost Box material and a generous helping of obscenely rare library recordings from their personal archives. The only person missing is [...]]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, library and television music curated by Jonny Trunk. This week he&#8217;s joined by Julian House and Jim Jupp, otherwise known as The Focus Group and Belbury Poly respectively. There&#8217;s exclusive airings of forthcoming Ghost Box material and a generous helping of obscenely rare library recordings from their personal archives. The only person missing is Jonny, who began the show stuck in traffic on London Bridge&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/6829/feed</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/6829/0/Ost7thmay20011.mp3" length="173539328" type="audio/mpeg" />
+		<itunes:duration>2:00:32</itunes:duration>
+		<itunes:subtitle>Soundtracks, library and television music curated by Jonny Trunk. This week he's joined by Julian House and Jim Jupp, otherwise known as The Focus Group and Belbury Poly respectively. There's exclusive airings of forthcoming Ghost Box material and a g...</itunes:subtitle>
+		<itunes:summary>Soundtracks, library and television music curated by Jonny Trunk. This week he's joined by Julian House and Jim Jupp, otherwise known as The Focus Group and Belbury Poly respectively. There's exclusive airings of forthcoming Ghost Box material and a generous helping of obscenely rare library recordings from their personal archives. The only person missing is Jonny, who began the show stuck in traffic on London Bridge...</itunes:summary>
+		<itunes:keywords>OST, Uncategorized</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 12.03.2011 &#8211; Jon Brooks</title>
+		<link>http://podcasts.resonancefm.com/archives/6825</link>
+		<comments>http://podcasts.resonancefm.com/archives/6825#comments</comments>
+		<pubDate>Sat, 14 May 2011 12:33:21 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=6825</guid>
+		<description><![CDATA[Soundtracks, library and television music curated by Jonny Trunk. This week Jonny is joined in the studio by Jon Brooks of The Advisory Circle. He&#8217;s a stalwart of Ghost Box Records and also the proprietor of very fine new netlabel Cafe Kaput, so expect things to get extremely Hauntological&#8230;]]></description>
+			<content:encoded><![CDATA[<p>Soundtracks, library and television music curated by Jonny Trunk. This week Jonny is joined in the studio by Jon Brooks of The Advisory Circle. He&#8217;s a stalwart of Ghost Box Records and also the proprietor of very fine new netlabel Cafe Kaput, so expect things to get extremely Hauntological&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/6825/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/6825/0/Ost-March12th2011.mp3" length="1" type="audio/mpeg" />
+		<itunes:duration>0:08:19</itunes:duration>
+		<itunes:subtitle>Soundtracks, library and television music curated by Jonny Trunk. This week Jonny is joined in the studio by Jon Brooks of The Advisory Circle. He's a stalwart of Ghost Box Records and also the proprietor of very fine new netlabel Cafe Kaput, so expec...</itunes:subtitle>
+		<itunes:summary>Soundtracks, library and television music curated by Jonny Trunk. This week Jonny is joined in the studio by Jon Brooks of The Advisory Circle. He's a stalwart of Ghost Box Records and also the proprietor of very fine new netlabel Cafe Kaput, so expect things to get extremely Hauntological...</itunes:summary>
+		<itunes:keywords>OST, Uncategorized</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 06.06.2009 &#8211; Matt Berry</title>
+		<link>http://podcasts.resonancefm.com/archives/6793</link>
+		<comments>http://podcasts.resonancefm.com/archives/6793#comments</comments>
+		<pubDate>Sun, 08 May 2011 22:29:18 +0000</pubDate>
+		<dc:creator>Michael</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=6793</guid>
+		<description><![CDATA[In an OST from the archive, join Jonny for a classic show from 2009 with very special guest Matt Berry, star of The IT Crowd, Garth Marenghi&#8217;s Darkplace and The Mighty Boosh as well as a musician in his own right, composer of soundtracks for the TV shows Snuff Box and Saxondale among others. Listen [...]]]></description>
+			<content:encoded><![CDATA[<p>In an OST from the archive, join Jonny for a classic show from 2009 with very special guest Matt Berry, star of The IT Crowd, Garth Marenghi&#8217;s Darkplace and The Mighty Boosh as well as a musician in his own right, composer of soundtracks for the TV shows Snuff Box and Saxondale among others. Listen in to hear Matt&#8217;s soundtrack selections, talk of vintage synthesisers and his love of the music of Ronnie Hazlehurst. </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/6793/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/6793/0/Ost-June6th2009MattBerry.mp3" length="172455183" type="audio/mpeg" />
+		<itunes:duration>2:00:00</itunes:duration>
+		<itunes:subtitle>In an OST from the archive, join Jonny for a classic show from 2009 with very special guest Matt Berry, star of The IT Crowd, Garth Marenghi's Darkplace and The Mighty Boosh as well as a musician in his own right, composer of soundtracks for the TV sh...</itunes:subtitle>
+		<itunes:summary>In an OST from the archive, join Jonny for a classic show from 2009 with very special guest Matt Berry, star of The IT Crowd, Garth Marenghi's Darkplace and The Mighty Boosh as well as a musician in his own right, composer of soundtracks for the TV shows Snuff Box and Saxondale among others. Listen in to hear Matt's soundtrack selections, talk of vintage synthesisers and his love of the music of Ronnie Hazlehurst.</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 05.02.2011 &#8211; John Barry</title>
+		<link>http://podcasts.resonancefm.com/archives/6790</link>
+		<comments>http://podcasts.resonancefm.com/archives/6790#comments</comments>
+		<pubDate>Sun, 08 May 2011 18:49:36 +0000</pubDate>
+		<dc:creator>Michael</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=6790</guid>
+		<description><![CDATA[This week a tribute to John Barry 3rd November 1933 &#8211; 30th January 2011. Track List: Midnight Cowboy – The Wilson Lewes Group The Meeting – Deadfall OST Billy, The Good Time Are Coming, Lolita – All from Play It Again The Ballet, Sophia – Sophia Loren In Rome Curiouser And Curiouser – Alice Adverntures [...]]]></description>
+			<content:encoded><![CDATA[<p>This week a tribute to John Barry 3rd November 1933 &#8211; 30th January 2011.</p>
+<p>Track List:</p>
+<p>Midnight Cowboy – The Wilson Lewes Group<br />
+The Meeting – Deadfall OST<br />
+Billy, The Good Time Are Coming, Lolita – All from Play It Again<br />
+The Ballet, Sophia – Sophia Loren In Rome<br />
+Curiouser And Curiouser – Alice Adverntures In Wonderland<br />
+Man With The Golden Gun – 2 cues<br />
+Game Of Death &#8211; One cue<br />
+Over And Out – OHMSS OST<br />
+Twistin With James / Jamaican Jazz – Dr No OST<br />
+3 cues from Petulia OST<br />
+Follow Follow – B Side of the Adventurers<br />
+Two opening cues from The Lion In Winter OST<br />
+Mary Queen Of Scots – Opening Theme<br />
+This Way Mary from Play It Again<br />
+Raped! From The Knack OST<br />
+Mood 3 and Mood 4 from the Chappell Library John Barry LP<br />
+Switching The Body from Thunderball OST<br />
+Of A Year Unknown – Boom OST<br />
+I’m Weak – Body Heat OST<br />
+The Wedding  &#8211; You Only Live Twice OST<br />
+The Children – Walkabout OST (Poo Records original version)<br />
+Joe Buck Rides Again &#8211; Midnight Cowboy OST</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/6790/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/6790/0/Ost-February5th2011johnBarry.mp3" length="174162965" type="audio/mpeg" />
+		<itunes:duration>2:00:00</itunes:duration>
+		<itunes:subtitle>This week a tribute to John Barry 3rd November 1933 - 30th January 2011.
+
+Track List:
+
+Midnight Cowboy – The Wilson Lewes Group
+The Meeting – Deadfall OST
+Billy, The Good Time Are Coming, Lolita – All from Play It Again
+The Ballet, Sophia...</itunes:subtitle>
+		<itunes:summary>This week a tribute to John Barry 3rd November 1933 - 30th January 2011.
+
+Track List:
+
+Midnight Cowboy – The Wilson Lewes Group
+The Meeting – Deadfall OST
+Billy, The Good Time Are Coming, Lolita – All from Play It Again
+The Ballet, Sophia – Sophia Loren In Rome
+Curiouser And Curiouser – Alice Adverntures In Wonderland
+Man With The Golden Gun – 2 cues
+Game Of Death - One cue
+Over And Out – OHMSS OST
+Twistin With James / Jamaican Jazz – Dr No OST
+3 cues from Petulia OST
+Follow Follow – B Side of the Adventurers
+Two opening cues from The Lion In Winter OST
+Mary Queen Of Scots – Opening Theme
+This Way Mary from Play It Again
+Raped! From The Knack OST
+Mood 3 and Mood 4 from the Chappell Library John Barry LP
+Switching The Body from Thunderball OST
+Of A Year Unknown – Boom OST
+I’m Weak – Body Heat OST
+The Wedding  - You Only Live Twice OST
+The Children – Walkabout OST (Poo Records original version)
+Joe Buck Rides Again - Midnight Cowboy OST</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 10.10.09 &#8211; Joe Davis</title>
+		<link>http://podcasts.resonancefm.com/archives/5871</link>
+		<comments>http://podcasts.resonancefm.com/archives/5871#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 22:50:47 +0000</pubDate>
+		<dc:creator>Michael</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Far Out Recordings]]></category>
+		<category><![CDATA[Joe Davis]]></category>
+		<category><![CDATA[Jonny Trunk]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=5871</guid>
+		<description><![CDATA[Sit back and relax for your weekly dose of OST, filled with all kinds of nutritious film soundtrack, library and related music, administered by Jonny Trunk. A classic show for you from back in 2009, when Jonny was joined in the studio by Far Out Recordings supremo Joe Davis, who brought a big bag of [...]]]></description>
+			<content:encoded><![CDATA[<p>Sit back and relax for your weekly dose of OST, filled with all kinds of nutritious film soundtrack, library and related music, administered by Jonny Trunk. </p>
+<p>A classic show for you from back in 2009, when Jonny was joined in the studio by Far Out Recordings supremo Joe Davis, who brought a big bag of Brazilian film music. Exceptionally groovy sounds and one of the great competitions in OST history &#8211; callers made puns of film titles and girls&#8217; names. </p>
+<p>Track listing:<br />
+Stavotte Cane Ogni Notte OST &#8211; Milton Nascimento<br />
+Lillia OST  &#8211; Milton Nascimanto<br />
+Tosta A Fera De Ouro OST &#8211; Milton Nascimento<br />
+Melo Do Cuta OST &#8211; Azymuth<br />
+Zomby OST &#8211; Azymuth<br />
+Danca Da Chuva OST &#8211; VIncent De Paula<br />
+Shaft cover version by Bandiera 2<br />
+God And The Devil OST &#8211; Sergio Ricardo<br />
+O Nosso Amor from Black Orpheus OST<br />
+A Felicidade from Black Orpheus OST<br />
+Ritual OST &#8211; Selva De Pedra<br />
+Hungarian Jungle Music from Not With My Wife by Johnny Williams<br />
+Spaceport from Toomorrow OST by Hugo Montenegro<br />
+Snake Hip OST by Terumasa Hino<br />
+Le Mans &#8211; cover version by Rene Clare<br />
+Brazil 2000 OST  &#8211; Various<br />
+O Fabuloao Fitipaldi OST by Azymuth<br />
+Tempo De Viva OST &#8211; Umas Et Utras<br />
+Pygmalion 70- OST &#8211; Erion Chaves</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/5871/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/5871/0/OST20091010JoeDavis.MP3" length="114083632" type="audio/mpeg" />
+		<itunes:duration>2:00:00</itunes:duration>
+		<itunes:subtitle>Sit back and relax for your weekly dose of OST, filled with all kinds of nutritious film soundtrack, library and related music, administered by Jonny Trunk. 
+
+A classic show for you from back in 2009, when Jonny was joined in the studio by Far Out R...</itunes:subtitle>
+		<itunes:summary>Sit back and relax for your weekly dose of OST, filled with all kinds of nutritious film soundtrack, library and related music, administered by Jonny Trunk. 
+
+A classic show for you from back in 2009, when Jonny was joined in the studio by Far Out Recordings supremo Joe Davis, who brought a big bag of Brazilian film music. Exceptionally groovy sounds and one of the great competitions in OST history - callers made puns of film titles and girls' names. 
+
+Track listing:
+Stavotte Cane Ogni Notte OST - Milton Nascimento
+Lillia OST  - Milton Nascimanto
+Tosta A Fera De Ouro OST - Milton Nascimento
+Melo Do Cuta OST - Azymuth
+Zomby OST - Azymuth
+Danca Da Chuva OST - VIncent De Paula
+Shaft cover version by Bandiera 2
+God And The Devil OST - Sergio Ricardo
+O Nosso Amor from Black Orpheus OST
+A Felicidade from Black Orpheus OST
+Ritual OST - Selva De Pedra
+Hungarian Jungle Music from Not With My Wife by Johnny Williams
+Spaceport from Toomorrow OST by Hugo Montenegro
+Snake Hip OST by Terumasa Hino
+Le Mans - cover version by Rene Clare
+Brazil 2000 OST  - Various
+O Fabuloao Fitipaldi OST by Azymuth
+Tempo De Viva OST - Umas Et Utras
+Pygmalion 70- OST - Erion Chaves</itunes:summary>
+		<itunes:keywords>OST, Uncategorized</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 18.04.09 &#8211; Garth Marenghi</title>
+		<link>http://podcasts.resonancefm.com/archives/5764</link>
+		<comments>http://podcasts.resonancefm.com/archives/5764#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 16:07:26 +0000</pubDate>
+		<dc:creator>Michael</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Garth Marenghi]]></category>
+		<category><![CDATA[Jonny Trunk]]></category>
+		<category><![CDATA[Resonance FM]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=5764</guid>
+		<description><![CDATA[Exhumed from the Resonance FM vaults, a frighteningly good OST Show from 2009, when Jonny Trunk was joined by dark, sinister and terribly evil horror writer Garth Merenghi. OST is your weekly trip into the world of film soundtracks, library music and related recordings. Tracklist: The Garth Merenghi Theme Dracula AD 72 by MIke Vickers [...]]]></description>
+			<content:encoded><![CDATA[<p>Exhumed from the Resonance FM vaults, a frighteningly good OST Show from 2009, when Jonny Trunk was joined by dark, sinister and terribly evil horror writer Garth Merenghi.</p>
+<p>OST is your weekly trip into the world of film soundtracks, library music and related recordings. </p>
+<p>Tracklist:</p>
+<p>The Garth Merenghi Theme<br />
+Dracula AD 72 by MIke Vickers<br />
+Dark Shadows OST &#8211; Robert Cobert<br />
+Edwina&#8217;s Theme from Theatre Of Blood OST &#8211; Michael Lewis<br />
+Mystery Movie Theme &#8211; Henry Mancini<br />
+Blazing Magnum OST &#8211; Armando Trovajoli<br />
+Streets Of San Francisco &#8211; Henry Mancini<br />
+Canon OST &#8211; Johnny Gregory Orchestra<br />
+Who Dares Wins &#8211; Roy Budd<br />
+McVicar OST &#8211; Roger Daltry<br />
+It&#8217;s A Long Road from First Blood OST &#8211; Jerry Goldsmith<br />
+Hanged Man OST &#8211; Alan Tew<br />
+Tubular Bells &#8211; cover by Geoff Love<br />
+Hawk The Slayer OST &#8211; Harry Robertson<br />
+Witchfinder General OST &#8211; Paul Ferris<br />
+The Searchers OST &#8211; Max Steiner<br />
+Wringle Wrangle &#8211; Stan Jones &#8211; Disney<br />
+Face To Face &#8211; Morricone<br />
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/5764/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/5764/0/OST20090418-marenghi.mp3" length="173015040" type="audio/mpeg" />
+		<itunes:duration>2:00:08</itunes:duration>
+		<itunes:subtitle>Exhumed from the Resonance FM vaults, a frighteningly good OST Show from 2009, when Jonny Trunk was joined by dark, sinister and terribly evil horror writer Garth Merenghi.
+ 
+OST is your weekly trip into the world of film soundtracks, library music ...</itunes:subtitle>
+		<itunes:summary>Exhumed from the Resonance FM vaults, a frighteningly good OST Show from 2009, when Jonny Trunk was joined by dark, sinister and terribly evil horror writer Garth Merenghi.
+ 
+OST is your weekly trip into the world of film soundtracks, library music and related recordings. 
+
+Tracklist:
+
+The Garth Merenghi Theme
+Dracula AD 72 by MIke Vickers
+Dark Shadows OST - Robert Cobert
+Edwina's Theme from Theatre Of Blood OST - Michael Lewis
+Mystery Movie Theme - Henry Mancini
+Blazing Magnum OST - Armando Trovajoli
+Streets Of San Francisco - Henry Mancini
+Canon OST - Johnny Gregory Orchestra
+Who Dares Wins - Roy Budd
+McVicar OST - Roger Daltry
+It's A Long Road from First Blood OST - Jerry Goldsmith
+Hanged Man OST - Alan Tew
+Tubular Bells - cover by Geoff Love
+Hawk The Slayer OST - Harry Robertson
+Witchfinder General OST - Paul Ferris
+The Searchers OST - Max Steiner
+Wringle Wrangle - Stan Jones - Disney
+Face To Face - Morricone&#60;p&#62;</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 22.01.11 &#8211; Simon Gitter</title>
+		<link>http://podcasts.resonancefm.com/archives/5729</link>
+		<comments>http://podcasts.resonancefm.com/archives/5729#comments</comments>
+		<pubDate>Tue, 25 Jan 2011 10:45:06 +0000</pubDate>
+		<dc:creator>Michael</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[A Shade Of Brass]]></category>
+		<category><![CDATA[Alan Hawkshaw]]></category>
+		<category><![CDATA[Alan Moorhouse]]></category>
+		<category><![CDATA[Alan Tew]]></category>
+		<category><![CDATA[AMP]]></category>
+		<category><![CDATA[Andy Ross]]></category>
+		<category><![CDATA[Auto Mobile]]></category>
+		<category><![CDATA[Barbara Moore]]></category>
+		<category><![CDATA[Brian Hodgson]]></category>
+		<category><![CDATA[Cipriani]]></category>
+		<category><![CDATA[Cyril Stapleton]]></category>
+		<category><![CDATA[De Fillipi]]></category>
+		<category><![CDATA[Ennio Morricone]]></category>
+		<category><![CDATA[First Theremin Era]]></category>
+		<category><![CDATA[Frank Gorshin]]></category>
+		<category><![CDATA[Gordon Franks]]></category>
+		<category><![CDATA[Guy Boyer]]></category>
+		<category><![CDATA[Johnny Hawksworth]]></category>
+		<category><![CDATA[Jonny Trunk]]></category>
+		<category><![CDATA[Michael Crawford]]></category>
+		<category><![CDATA[Peter Zinovieff]]></category>
+		<category><![CDATA[Quatar]]></category>
+		<category><![CDATA[Quinceharmon]]></category>
+		<category><![CDATA[Rick Jones]]></category>
+		<category><![CDATA[Rosemary Nichols]]></category>
+		<category><![CDATA[Saudieri]]></category>
+		<category><![CDATA[Simon Gitter]]></category>
+		<category><![CDATA[The Dooleys]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=5729</guid>
+		<description><![CDATA[The weekly show dedicated to film, TV, library music and related recordings, hosted by Jonny Trunk. Jonny was joined today by hard working collector, DJ and archivist Simon Gitter, who brought in a fine box of esoteric soundrack musical madness and much more besides, all dug out from second hand boxes, bin ends and rogue [...]]]></description>
+			<content:encoded><![CDATA[<p>The weekly show dedicated to film, TV, library music and related recordings, hosted by Jonny Trunk.</p>
+<p>Jonny was joined today by hard working collector, DJ and archivist Simon Gitter, who brought in a fine box of esoteric soundrack musical madness and much more besides, all dug out from second hand boxes, bin ends and rogue crates over the last 20 years or so.</p>
+<p>Track listing:<br />
+Pin Ball &#8211; Johnny Hawksworth<br />
+Outbreak Of Murder &#8211; Gordon Franks<br />
+If I Was A Rich Man &#8211; Guy Boyer<br />
+Masculine Feminine &#8211; Cipriani<br />
+The Aeronauts &#8211; Rick Jones<br />
+Pathfinders &#8211; Andy Ross<br />
+Bobby Byrne &#8211; A Shade Of Brass<br />
+Bingo Goes Pop Advertising disc<br />
+Secret &#8211; Saudieri<br />
+Components &#8211; De Fillipi<br />
+Haunting Me &#8211; Alan Moorhouse<br />
+Light Flight &#8211; Alan Tew<br />
+Intelligence Men &#8211; Alan Hawkshaw<br />
+Mansion Of Cards &#8211; Brian Hodgson<br />
+The Riddler &#8211; Frank Gorshin<br />
+Hurry To Me &#8211; Cyril Stapleton<br />
+A Lollipop For Papa &#8211; Peter Zinovieff<br />
+If I Didn&#8217;t Work What Would I do &#8211; Ennio Morricone<br />
+Barnabus Theme &#8211; First Theremin Era<br />
+Changing Horizons &#8211; AMP Advertising Disc<br />
+On The Move &#8211; The Dooleys<br />
+Playgirl &#8211; Quatar<br />
+Oh That Girl -Michael Crawford<br />
+Once Upon A Time &#8211; Rosemary Nichols<br />
+Cliff Adams Advertising Disc<br />
+Eric Siday &#8211; Auto Mobile<br />
+On The Buses &#8211; Quinceharmon<br />
+Tendre Voyou &#8211; Guy Boyer<br />
+Hot Heels &#8211; Barbara Moore</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/5729/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/5729/0/OST20110122SimonGitter.MP3" length="116442592" type="audio/mpeg" />
+		<itunes:duration>2:00:00</itunes:duration>
+		<itunes:subtitle>The weekly show dedicated to film, TV, library music and related recordings, hosted by Jonny Trunk.
+
+Jonny was joined today by hard working collector, DJ and archivist Simon Gitter, who brought in a fine box of esoteric soundrack musical madness and...</itunes:subtitle>
+		<itunes:summary>The weekly show dedicated to film, TV, library music and related recordings, hosted by Jonny Trunk.
+
+Jonny was joined today by hard working collector, DJ and archivist Simon Gitter, who brought in a fine box of esoteric soundrack musical madness and much more besides, all dug out from second hand boxes, bin ends and rogue crates over the last 20 years or so.
+
+Track listing:
+Pin Ball - Johnny Hawksworth
+Outbreak Of Murder - Gordon Franks
+If I Was A Rich Man - Guy Boyer
+Masculine Feminine - Cipriani
+The Aeronauts - Rick Jones
+Pathfinders - Andy Ross
+Bobby Byrne - A Shade Of Brass
+Bingo Goes Pop Advertising disc
+Secret - Saudieri
+Components - De Fillipi
+Haunting Me - Alan Moorhouse
+Light Flight - Alan Tew
+Intelligence Men - Alan Hawkshaw
+Mansion Of Cards - Brian Hodgson
+The Riddler - Frank Gorshin
+Hurry To Me - Cyril Stapleton
+A Lollipop For Papa - Peter Zinovieff
+If I Didn't Work What Would I do - Ennio Morricone
+Barnabus Theme - First Theremin Era
+Changing Horizons - AMP Advertising Disc
+On The Move - The Dooleys
+Playgirl - Quatar
+Oh That Girl -Michael Crawford
+Once Upon A Time - Rosemary Nichols
+Cliff Adams Advertising Disc
+Eric Siday - Auto Mobile
+On The Buses - Quinceharmon
+Tendre Voyou - Guy Boyer
+Hot Heels - Barbara Moore</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>OST 15.01.2011 &#8211; Trish Keenan Tribute</title>
+		<link>http://podcasts.resonancefm.com/archives/5592</link>
+		<comments>http://podcasts.resonancefm.com/archives/5592#comments</comments>
+		<pubDate>Sat, 15 Jan 2011 21:04:57 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=5592</guid>
+		<description><![CDATA[This week&#8217;s edition of the Original Soundtrack show with Jonny Trunk is a repeat of the 22 December 2007 show with special guests Broadcast, in tribute to the band&#8217;s singer, Trish Keenan who died on Friday 14 January 2011.]]></description>
+			<content:encoded><![CDATA[<p>This week&#8217;s edition of the Original Soundtrack show with Jonny Trunk is a repeat of the 22 December 2007 show with special  guests Broadcast, in tribute to the band&#8217;s singer, Trish Keenan who died  on Friday 14 January 2011.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/5592/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	<!-- Media File exists for this post, but its not enabled for this feed -->
+	</item>
+		<item>
+		<title>OST 27.11.2010 &#8211; Robin the Fog</title>
+		<link>http://podcasts.resonancefm.com/archives/5142</link>
+		<comments>http://podcasts.resonancefm.com/archives/5142#comments</comments>
+		<pubDate>Sat, 11 Dec 2010 00:01:29 +0000</pubDate>
+		<dc:creator>robin</dc:creator>
+				<category><![CDATA[OST]]></category>
+		<category><![CDATA[Panel Borders]]></category>
+		<category><![CDATA[Yummy Mummy]]></category>
+
+		<guid isPermaLink="false">http://podcasts.resonancefm.com/?p=5142</guid>
+		<description><![CDATA[This weekly programme is dedicated to film, TV and library music, and is hosted by Jonny Trunk. But this week Jonny&#8217;s got the builders in, so long-standing OST engineer Robin the Fog is taking the hotseat to present two-hour smorgasbord of the funky, the strange and the diabolically instructional.  Features a world exclusive from Basil Kirchin, the wonderful Loretta Long, a tour [...]]]></description>
+			<content:encoded><![CDATA[<p>This weekly programme is dedicated to film, TV and library music, and is hosted by Jonny Trunk. But this week Jonny&#8217;s got the builders in, so long-standing OST engineer <a href="http://robinthefog.com">Robin the Fog</a> is taking the hotseat to present two-hour smorgasbord of the funky, the strange and the diabolically instructional.  Features a world exclusive from Basil Kirchin, the wonderful Loretta Long, a tour of Jim Henson&#8217;s brain,  an overly-perky gent known only as the K-Tel Exercise Man; an awful lot of awkward 60&#8242;s small-talk and some screaming. Also features Alex Fitch, host of Resonance&#8217;s Panel Border&#8217;s show discussing the merits of Cilla Black. Fun for all the family!</p>
+<p>Appears here &#8216;warts-and-all&#8217; as it originally went out on 27/11/2010, so feel free to skip through the talky bits.  Here&#8217;s what we played:</p>
+<p><em>Loretta Long: ABC Song (from the LP &#8216;Susan Sings Songs from Sesame Street&#8217;, Scepter Records, 1970)</em></p>
+<p><em>Bob Dorough: Ready or Not, Here I Come (from the LP &#8216;Multiplication Rock&#8217;, Captiol, 1973) </em></p>
+<p><em>Electric Company Cast: Electric Company Main Theme (Warner Brothers 7&#8243;, 1972)</em></p>
+<p><em>Loretta Long: Right in the Middle of My Face (from the LP &#8216;Susan Sings Songs from Sesame Street&#8217;)</em></p>
+<p><em>Bert: Clink, Clank (Columbia Records 7&#8243;, 1972)</em></p>
+<p><em>Jim Henson: Tick Tock Sick (Signature Records 7&#8243;, 1960)</em></p>
+<p><em>Bob Dorough: Four-Legged Zoo (from the LP &#8216;Multiplication Rock&#8217;)</em></p>
+<p><em>Loretta Long: Three of These Sounds (from the LP &#8216;Susan Sings Songs from Sesame Street&#8217;)</em></p>
+<p><em>The Short Circus: Hard, Hard, Hard (from &#8216;The Electric Company OST&#8217;, CTW, 1972)</em></p>
+<p><em>Bob McGraph: Why Choose to be Afraid (from &#8216;Bob McGraph from Sesame Street&#8217;, Affinity Records, 1970)</em></p>
+<p><em>Electric Company: JJ to Brenda to Mark (from &#8216;The Electric Company OST&#8217;)</em></p>
+<p><em>Bob Dorough: Three is a Magic Number (from the LP &#8216;Multiplication Rock&#8217;)</em></p>
+<p><em>Jim Henson: The Countryside (Signature Records 7&#8243;, 1960)</em></p>
+<p><em>Electric Company: Punctuation Song (from &#8216;The Electric Company OST&#8217;)</em></p>
+<p><em>Bob McGraph: Good, Good Morning Day (from &#8216;Bob McGraph from Sesame Street&#8217;)</em></p>
+<p><em>Electric Company: Fight! (from &#8216;The Electric Company OST&#8217;)</em></p>
+<p><em>Electric Company: My Name is Kathy (from &#8216;The Electric Company OST&#8217;)</em></p>
+<p><em>Bob Dorough and Blossom Dearie: Figure Eight (from the LP &#8216;Multiplication Rock&#8217;)</em></p>
+<p><em>Loretta Long: Someday Little Children (CTW 7&#8243;, 1970)</em></p>
+<p><em>Electric Company: Signs Song (from &#8216;The Electric Company OST&#8217;)</em></p>
+<p><em>Hap Palmer: Bossa Nova to Eight (from &#8216;Math Readiness&#8217; LP, 1980)</em></p>
+<p><em>The Short Circus: Jelly Belly (from &#8216;The Electric Company OST&#8217;)</em></p>
+<p><em>Les Chanteurs et L’Orchestre De Michel Triventi: Ulysse ’31 (from ‘Hit Parade des Enfants’, label and date unknown)</em></p>
+<p><em>Basil Kirchin: Primitive London Part 1 (from &#8216;Primitive London OST&#8217;, forthcoming on Trunk Records)</em></p>
+<p><em>Bob &amp; Gertrude Kimble(?): S-T-R-E-T-C-H like a Cat (taken from &#8216;Rhythmic Activity Songs&#8217;, Kimbo Instructional Records c.1962) </em></p>
+<p><em>Jim Henson with Raymond Scott: Limbo- The Organised Mind (taken from &#8216;Manhattan Research&#8217;, Basta Recordings, exact date unknown) </em></p>
+<p><em>The K-Tel Exercise Man: K-Tel Multi-Exerciser Instructional Record (1<sup>st</sup> extract) (K-Tel, date unknown) </em></p>
+<p><em>The Green Goddess: Jump (Renault Trucks Workout) (Renault Trucks 7&#8243;, c.1980)</em></p>
+<p><em>Laban Movement Study Aids: Listen and Move extract (Laban, 78rpm shellac disc, date unknown)</em></p>
+<p><em>The K-Tel Exercise Man: K-Tel Multi-Exerciser Instructional Record (2<sup>nd</sup> extract)</em></p>
+<p><em>Linguaphone: English Lesson 14: Saturday Traffic (Linguaphone 7&#8243;, c.1962) </em></p>
+<p><em>Dick Mills/BBC Radiophonic Workshop: Adagio (taken from &#8216;The Radiophonic Workshop&#8217;, BBC Records, 1975)</em></p>
+<p><em>BBC Special Effects: The Countryside (taken from &#8216;BBC Sound Effects vol. 23- Relaxing Sounds&#8217;, BBC Records, 1979)</em></p>
+<p><em>BBC Special Effects:  Screams (taken from &#8216;BBC Sounds Effects vol. 13- Sounds of Death and Horror&#8217;. BBC Records, 1977)</em></p>
+<p><em>Basil Kirchin: Primitive London Part 4 (forthcoming on Trunk Records)</em></p>
+<p><em>Unknown: BBC: Acetate disc marked November 1954</em></p>
+<p><em>Loretta Long: Happy Talk (from the LP &#8216;Susan Sings Songs from Sesame Street&#8217;)</em></p>
+<p>With thanks/apologies to Jonny Trunk. To learn more about the great man and his work why not visit <a href="http://www.trunkrecords.com">www.trunkrecords.com</a> ? Go on, it&#8217;s super. </p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcasts.resonancefm.com/archives/5142/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://podcasts.resonancefm.com/podpress_trac/feed/5142/0/OstShow27.11.2010Edit.mp3" length="170752418" type="audio/mpeg" />
+		<itunes:duration>0:08:49</itunes:duration>
+		<itunes:subtitle>This weekly programme is dedicated to film, TV and library music, and is hosted by Jonny Trunk. But this week Jonny's got the builders in, so long-standing OST engineer &#60;a href="http://robinthefog.com"&#62;Robin the Fog&#60;/a&#62; is taking the hotseat to p...</itunes:subtitle>
+		<itunes:summary>This weekly programme is dedicated to film, TV and library music, and is hosted by Jonny Trunk. But this week Jonny's got the builders in, so long-standing OST engineer &#60;a href="http://robinthefog.com"&#62;Robin the Fog&#60;/a&#62; is taking the hotseat to present two-hour smorgasbord of the funky, the strange and the diabolically instructional.  Features a world exclusive from Basil Kirchin, the wonderful Loretta Long, a tour of Jim Henson's brain,  an overly-perky gent known only as the K-Tel Exercise Man; an awful lot of awkward 60's small-talk and some screaming. Also features Alex Fitch, host of Resonance's Panel Border's show discussing the merits of Cilla Black. Fun for all the family!
+
+Appears here 'warts-and-all' as it originally went out on 27/11/2010, so feel free to skip through the talky bits.  Here's what we played:
+
+&#60;em&#62;Loretta Long: ABC Song (from the LP 'Susan Sings Songs from Sesame Street', Scepter Records, 1970)&#60;/em&#62;
+
+&#60;em&#62;Bob Dorough: Ready or Not, Here I Come (from the LP 'Multiplication Rock', Captiol, 1973) &#60;/em&#62;
+
+&#60;em&#62;Electric Company Cast: Electric Company Main Theme (Warner Brothers 7", 1972)&#60;/em&#62;
+
+&#60;em&#62;Loretta Long: Right in the Middle of My Face (from the LP 'Susan Sings Songs from Sesame Street')&#60;/em&#62;
+
+&#60;em&#62;Bert: Clink, Clank (Columbia Records 7", 1972)&#60;/em&#62;
+
+&#60;em&#62;Jim Henson: Tick Tock Sick (Signature Records 7", 1960)&#60;/em&#62;
+
+&#60;em&#62;Bob Dorough: Four-Legged Zoo (from the LP 'Multiplication Rock')&#60;/em&#62;
+
+&#60;em&#62;Loretta Long: Three of These Sounds (from the LP 'Susan Sings Songs from Sesame Street')&#60;/em&#62;
+
+&#60;em&#62;The Short Circus: Hard, Hard, Hard (from 'The Electric Company OST', CTW, 1972)&#60;/em&#62;
+
+&#60;em&#62;Bob McGraph: Why Choose to be Afraid (from 'Bob McGraph from Sesame Street', Affinity Records, 1970)&#60;/em&#62;
+
+&#60;em&#62;Electric Company: JJ to Brenda to Mark (from 'The Electric Company OST')&#60;/em&#62;
+
+&#60;em&#62;Bob Dorough: Three is a Magic Number (from the LP 'Multiplication Rock')&#60;/em&#62;
+
+&#60;em&#62;Jim Henson: The Countryside (Signature Records 7", 1960)&#60;/em&#62;
+
+&#60;em&#62;Electric Company: Punctuation Song (from 'The Electric Company OST')&#60;/em&#62;
+
+&#60;em&#62;Bob McGraph: Good, Good Morning Day (from 'Bob McGraph from Sesame Street')&#60;/em&#62;
+
+&#60;em&#62;Electric Company: Fight! (from 'The Electric Company OST')&#60;/em&#62;
+
+&#60;em&#62;Electric Company: My Name is Kathy (from 'The Electric Company OST')&#60;/em&#62;
+
+&#60;em&#62;Bob Dorough and Blossom Dearie: Figure Eight (from the LP 'Multiplication Rock')&#60;/em&#62;
+
+&#60;em&#62;Loretta Long: Someday Little Children (CTW 7", 1970)&#60;/em&#62;
+
+&#60;em&#62;Electric Company: Signs Song (from 'The Electric Company OST')&#60;/em&#62;
+
+&#60;em&#62;Hap Palmer: Bossa Nova to Eight (from 'Math Readiness' LP, 1980)&#60;/em&#62;
+
+&#60;em&#62;The Short Circus: Jelly Belly (from 'The Electric Company OST')&#60;/em&#62;
+
+&#60;em&#62;Les Chanteurs et L’Orchestre De Michel Triventi: Ulysse ’31 (from ‘Hit Parade des Enfants’, label and date unknown)&#60;/em&#62;
+
+&#60;em&#62;Basil Kirchin: Primitive London Part 1 (from 'Primitive London OST', forthcoming on Trunk Records)&#60;/em&#62;
+
+&#60;em&#62;Bob &#38; Gertrude Kimble(?): S-T-R-E-T-C-H like a Cat (taken from 'Rhythmic Activity Songs', Kimbo Instructional Records c.1962) &#60;/em&#62;
+
+&#60;em&#62;Jim Henson with Raymond Scott: Limbo- The Organised Mind (taken from 'Manhattan Research', Basta Recordings, exact date unknown) &#60;/em&#62;
+
+&#60;em&#62;The K-Tel Exercise Man: K-Tel Multi-Exerciser Instructional Record (1&#60;sup&#62;st&#60;/sup&#62; extract) (K-Tel, date unknown) &#60;/em&#62;
+
+&#60;em&#62;The Green Goddess: Jump (Renault Trucks Workout) (Renault Trucks 7", c.1980)&#60;/em&#62;
+
+&#60;em&#62;Laban Movement Study Aids: Listen...</itunes:summary>
+		<itunes:keywords>OST</itunes:keywords>
+		<itunes:author>Resonance FM</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	</channel>
+</rss>
