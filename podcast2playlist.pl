@@ -31,15 +31,8 @@ if ($self->{url} =~ m/http/){
 
 	my $r = $ua->get($self->{url});
 	if($r->is_error){
-	#open (LOG, ">>".$self->{logFile}) || die "oh no! can't open ".$self->{logFile}."\n";
-	#select(LOG); $| = 1;
-        #print LOG "$geturl => " . $r->status_line . "\n";
-        #close (LOG);
-        #return $ERROR_MSG;
-	print "error ". $r->status_line . "\n";
+		die "error ". $r->status_line . "\n";
 	}
-
-
 	my $content = $r->content;
 	my $encoding = 'utf8'; # assume this is the default
 	if($content =~ /encoding="([^"]+)"/) {
@@ -48,7 +41,6 @@ if ($self->{url} =~ m/http/){
 	$content = $r->decoded_content((charset => $encoding));
 	$feed = $p->parse_string($content);
 }else{
-
 	my $fh = FileHandle->new($self->{url});
 	$feed = $p->parse_file($fh);
 }
@@ -83,5 +75,3 @@ foreach my $pod (@playlist){
 	print $pod->{url}.$self->{delim} if ($count<$self->{limit});
 	$count++;
 }
-
-
