@@ -7,7 +7,8 @@ use utf8;
 use LWP::UserAgent;
 use XML::RSS::Parser;
 use FileHandle;
-use Date::Parse
+use Date::Parse;
+use URI;
 
 binmode STDOUT, ':encoding(utf8)';
 binmode STDERR, ':encoding(utf8)';
@@ -23,7 +24,7 @@ my $self = {
 my $p = XML::RSS::Parser->new;
 my $feed;
 
-if ($self->{url} =~ m/http/){
+if (URI->new($self->{url})->scheme ){
 	my $ua = LWP::UserAgent->new;
 	$ua->agent('Podcast To Playlist');
 	$ua->from($self->{user});
