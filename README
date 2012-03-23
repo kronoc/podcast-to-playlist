@@ -1,0 +1,18 @@
+
+You will need the following modules from cpan to use podcast2playlist:
+
+LWP::UserAgent; XML::RSS::Parser; Date::Parse;
+
+
+Usage:
+
+podcast2playlist.pl user "you@email.example" url http://test.test/podcast.xml > playlist.m3u
+
+podcast2playlist.pl url localfile.xml > playlist.m3u
+
+podcast2playlist.pl user "you@email.example" url http://test.test/podcast.xml delim "," > playlist.csv
+
+podcast2playlist.pl user "you@email.example" url http://test.test/podcast.xml limit 1 > single-item-playlist.m3u
+
+
+Playlists are sorted by default by date, newest item first.
