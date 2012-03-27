@@ -2,7 +2,7 @@ Podcast To Playlist
 ===================
 
 This is a Perl programme which parses podcast rss feeds and prints out a list of the media files published in that feed, in order of publication date.
-Output is in m3u format by default, but you can set command line options to get CSV,JSON, pipe-delimited etc.
+Output is in m3u format by default, but you can set command line options to get CSV, JSON, pipe-delimited etc.
 
 Dependencies
 ------------
@@ -28,10 +28,10 @@ Usage
 ### Output a CSV from a podcast
 	podcast2playlist.pl user "you@email.example" url http://test.test/podcast.xml delim "," > playlist.csv
 
-### Output a simple (most recent) item from a podcast
+### Output a single (most recent) item from a podcast
 	podcast2playlist.pl user "you@email.example" url http://test.test/podcast.xml limit 1 > single-item-playlist.m3u
 
-### Output the 5 most recent items from a podcast as a playlist in JSON(!)
+### Output the 5 most recent items from a podcast as a playlist in JSON
 	podcast2playlist.pl user "you@email.example" url http://test.test/podcast.xml limit 5 delim '","url":"' output_start '[{"url":"' output_end '"}]'  > playlist.json
 
 
