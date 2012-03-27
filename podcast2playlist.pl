@@ -16,6 +16,8 @@ binmode STDERR, ':encoding(utf8)';
 my $self = {
         url => 'http://test.example/rss.xml',
 	delim => "\n",
+	output_start => "",
+	output_end => "",
 	limit => '100',
 	user => 'info@conor.net',
         @ARGV
@@ -52,7 +54,6 @@ if ( ! $feed ){
   die "Cannot parse feed.";
  }
  my @podcasts;
-
  foreach my $i ( $feed->query('//item') ) { 
      my $podcast;
      if ( $i->query('enclosure') ){
@@ -71,8 +72,12 @@ if ( ! $feed ){
 #improve sorting at some point
 my @playlist = sort { $b->{date} <=> $a->{date} } @podcasts;
 
+my $feed_size = scalar @playlist;
 my $count=0;
+print "$self->{output_start}";
 foreach my $pod (@playlist){
-	print $pod->{url}.$self->{delim} if ($count<$self->{limit});
+	print $pod->{url} if ($count<$self->{limit});
 	$count++;
+	print $self->{delim} if (($count<$feed_size) && ( $count <$self->{limit} ));
 }
+print "$self->{output_end}";
